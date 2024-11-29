@@ -22,18 +22,25 @@ To compile and run the program, make sure you have a C++ compiler installed on y
 ### Example Usage:
 **Add Patient**:
 Enter Patient ID: 101
+
 Enter Patient Name: John Doe
+
 Enter Patient Age: 30
+
 Enter Disease: Fever
 
 **Add Doctor**:
 Enter Doctor ID: 1
+
 Enter Doctor Name: Dr. Smith
+
 Enter Specialization: General Physician
 
 **Schedule Appointment**:
 Enter Patient ID: 101
+
 Enter Doctor ID: 1
+
 Enter Appointment Date (DD-MM-YYYY): 15-12-2024
 
 ## Technologies Used
