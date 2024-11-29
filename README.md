@@ -48,6 +48,7 @@ Enter Appointment Date (DD-MM-YYYY): 15-12-2024
 
 ## Technologies Used
 C++: Core programming language used to develop the system.
+
 Standard Template Library (STL): Used for storing and managing data (such as patients, doctors, and appointments) using vectors.
 
 ## Contributions
