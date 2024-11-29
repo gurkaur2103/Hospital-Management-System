@@ -21,6 +21,7 @@ To compile and run the program, make sure you have a C++ compiler installed on y
    git clone https://github.com/gurkaur2103/Hospital-Management-System.git
 ### Example Usage:
 **Add Patient**:
+
 Enter Patient ID: 101
 
 Enter Patient Name: John Doe
@@ -30,6 +31,7 @@ Enter Patient Age: 30
 Enter Disease: Fever
 
 **Add Doctor**:
+
 Enter Doctor ID: 1
 
 Enter Doctor Name: Dr. Smith
@@ -37,6 +39,7 @@ Enter Doctor Name: Dr. Smith
 Enter Specialization: General Physician
 
 **Schedule Appointment**:
+
 Enter Patient ID: 101
 
 Enter Doctor ID: 1
